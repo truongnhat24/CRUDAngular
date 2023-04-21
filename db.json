@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "firstName": "Nguyen",
+      "lastName": "A",
+      "email": "nguyena@gmail.com",
+      "birthday": "1999-07-10T17:00:00.000Z",
+      "gender": "male",
+      "education": "Cao dang",
+      "company": "GG",
+      "id": 1
+    },
+    {
+      "firstName": "Le",
+      "lastName": "B",
+      "email": "leb@gmail.com",
+      "birthday": "2023-04-17T17:00:00.000Z",
+      "gender": "female",
+      "education": "Cao dang",
+      "company": "TW",
+      "id": 4
+    },
+    {
+      "firstName": "Ngo",
+      "lastName": "C",
+      "email": "ngoc@gmail.com",
+      "birthday": "2023-04-11T17:00:00.000Z",
+      "gender": "male",
+      "education": "Cao hoc",
+      "company": "FB",
+      "id": 5
+    },
+    {
+      "firstName": "Tran",
+      "lastName": "D",
+      "email": "trand@gmail.com",
+      "birthday": "2023-04-17T17:00:00.000Z",
+      "gender": "female",
+      "education": "Cao dang",
+      "company": "IG",
+      "id": 6
+    }
+  ]
+}
